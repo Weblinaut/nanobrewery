@@ -1,0 +1,10 @@
+html,
+ body {
+     height: 100%;
+ }
+body {
+    text-align: center;
+    background-image: url("../images/darkbeermain.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
